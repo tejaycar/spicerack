@@ -1,0 +1,1 @@
+default[:spicerack][:debug][:attributes] = []
